@@ -24,7 +24,7 @@ The program was built using Python and converted into an executable program.
 
 ## Video Demo:
 
-You can watch how the program works in action here(https://www.youtube.com/watch?v=w0IU5H7QJ-s).
+You can watch how the program works in action here https://www.youtube.com/watch?v=w0IU5H7QJ-s.
 
 ## How to Install:
 
