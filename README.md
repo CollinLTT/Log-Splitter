@@ -1,5 +1,5 @@
 # Log Splitter
-A program I created for my dad's company in the Summer of 2023.
+A program I created for my father's company in the Summer of 2023.
 
 Log Splitter is a project that splits single large inaccessible Log files filled with diagnostic data into accessible CSV files.
 
@@ -19,6 +19,8 @@ The program begins by creating a CSV file and then searches each line in the Log
 The program uses a GUI that allows the user to select the Log file to be split, the output destination of the CSV files, and the "Search String" keyword by which to split the lines.
 
 The program is used in order to split Log files of up to 16GB into accessible CSV files.
+
+The previous program the company used to split the files took up to 8 minutes compared to my program which averages 1 minute.
 
 The program was built using Python and converted into an executable program.
 
