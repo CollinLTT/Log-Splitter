@@ -6,12 +6,12 @@ Log Splitter is a project that splits single large inaccessible Log files filled
 ### Table of Contents
 - [How it Works](#how-it-works)
 - [Capabilities](#capabilities)
-- [How to Install](#how-to-install).
+- [How to Install](#how-to-install)
 - [Improvements](#improvements)
 
 ## How it Works:
 
-The program begins by creating a CSV file and then searches each line in the Log file for the "Input String" keyword. Once the keyword is found that line is copied into the new CSV file. The readable Excel line limit is 1,400,000 lines and is the default cutoff in this program for a single CSV file. Once the program reaches the 1,400,000 line limit it creates a new CSV file automatically and continues the process. Once the program is finished there is a notification in the GUI.
+The program begins by creating a CSV file and then searches each line in the Log file for the "Input String" keyword. Once the keyword is found that line is copied into the new CSV file. The readable Excel line limit is 1,040,000 lines and is the default cutoff in this program for a single CSV file. Once the program reaches the 1,040,000 line limit it creates a new CSV file automatically and continues the process. Once the program is finished there is a notification in the GUI.
 
 ## Capabilities:
 
