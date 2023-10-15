@@ -6,6 +6,7 @@ Log Splitter is a project that splits single large inaccessible Log files filled
 ### Table of Contents
 - [How it Works](#how-it-works)
 - [Capabilities](#capabilities)
+- [Video Demo](#video-demo)
 - [How to Install](#how-to-install)
 - [Improvements](#improvements)
 
@@ -20,6 +21,10 @@ The program uses a GUI that allows the user to select the Log file to be split, 
 The program is used in order to split Log files of up to 16GB into accessible CSV files.
 
 The program was built using Python and converted into an executable program.
+
+## Video Demo:
+
+You can watch how the program works in action here(https://www.youtube.com/watch?v=w0IU5H7QJ-s).
 
 ## How to Install:
 
